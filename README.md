@@ -1,6 +1,6 @@
-Student Management System
+### Student Management System
 
-Project Overview:
+## Project Overview:
 
 
 This project is a comprehensive Student Management System designed to streamline the process of managing student records. Developed using a combination of Java, HTML, CSS, JavaScript, and SQL technologies, it offers a robust solution for educational institutions to efficiently handle student data.
