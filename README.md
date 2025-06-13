@@ -5,7 +5,7 @@
 
 This project is a comprehensive Student Management System designed to streamline the process of managing student records. Developed using a combination of Java, HTML, CSS, JavaScript, and SQL technologies, it offers a robust solution for educational institutions to efficiently handle student data.
 
-Database Setup:
+## Database Setup:
 
 The foundation of the system lies in its SQL database, which stores student information securely. To set up the database, a new database named "StudentDB" is created, and demo data is added using SQL queries. The database schema includes tables for student records, storing data such as student name, age, and grade. This ensures that the system is equipped with a solid backend infrastructure to manage student information effectively.
 
